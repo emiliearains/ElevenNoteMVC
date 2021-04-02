@@ -90,4 +90,5 @@ namespace ElevenNote.Services
                 return ctx.SaveChanges() == 1;
             }
         }
+    }
 }
